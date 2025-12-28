@@ -1,6 +1,5 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-  basePath: '/edition5',
   images: {
     domains: [
       "cdn.builder.io",
